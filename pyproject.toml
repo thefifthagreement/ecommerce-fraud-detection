@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "jedha-fs-s4-project"
+name = "ecommerce-fraud-detection"
 version = "0.1.0"
 description = "Detecting fraudulent activity"
 authors = ["thefifthagreement <mickael.vitry@gmail.com>"]

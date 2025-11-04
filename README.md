@@ -1,4 +1,4 @@
-# Fraudulent activities
+# E-Commerce Fraud Detection
 
 > Jedha Data Science Bootcamp - Fullstack - week 4
 
